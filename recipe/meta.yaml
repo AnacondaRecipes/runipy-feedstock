@@ -39,8 +39,15 @@ test:
 about:
   home: https://github.com/paulgb/runipy
   license: BSD 2-Clause
+  license_family: BSD
   license_file: LICENSE
   summary: 'Run IPython notebooks from the command line'
+  description: |
+    runipy allows you to run IPython notebooks as command-line scripts,
+    generate HTML reports, and automate data pipelines.
+  doc_url: https://pypi.python.org/pypi/runipy
+  doc_source_url: https://github.com/paulgb/runipy/blob/master/README.rst
+  dev_url: https://github.com/paulgb/runipy
 
 extra:
   recipe-maintainers:
