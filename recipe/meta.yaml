@@ -15,7 +15,7 @@ build:
     - runipy = runipy.main:main
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
     - jinja2 >=2.7.2
